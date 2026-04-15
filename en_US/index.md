@@ -5,12 +5,12 @@ descript: "A lightweight Open-Source Javascript library of getting The Purple St
 layout: home
 
 hero:
-  name: ziwei.pro<a class="star" href="https://github.com/SylarLong/iztro" target="_blank"><img src="https://img.shields.io/github/stars/sylarlong/iztro.svg?style=social&label=Star" alt="iztro" /></a>
+  name: iztro.com<a class="star" href="https://github.com/SylarLong/iztro" target="_blank"><img src="https://img.shields.io/github/stars/sylarlong/iztro.svg?style=social&label=Star" alt="iztro" /></a>
   text: "not only a document."
   tagline: Doucument of iztro. From an ancient eastern astrology. Master your life!
   image:
     src: /static/home_img.png
-    alt: ziwei.pro
+    alt: iztro.com
   actions:
     - theme: alt
       text: Astrolabe

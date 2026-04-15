@@ -6,7 +6,7 @@ const version = "v2.4.7";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "紫微研习社 ziwei.pro",
+  title: "紫微研习社 iztro.com",
   description:
     "iztro is a lightweight Open-Source Javascript library of getting The Purple Star Astrology(Zi Wei Dou Shu) astrolabe information.",
   outDir: "../astro/docs/",
@@ -23,7 +23,7 @@ export default defineConfig({
       provider: "local",
     },
     footer: {
-      message: '© 2025 ziwei.pro All rights reserved.<br/>友情链接：<a href="https://ziweiai.com.cn/" target="_blank">紫微AI</a> | <a href="https://ziwei.pub" target="_blank">紫微派</a>',
+      message: '© 2025 iztro.com All rights reserved.<br/>友情链接： <a href="https://ziwei.pub" target="_blank">紫微派</a>',
     },
   },
 
@@ -38,6 +38,7 @@ export default defineConfig({
           { text: "开发", link: "/quick-start.md" },
           { text: "新手村", link: "/learn/basis.md" },
           { text: "排盘", link: "https://ziwei.pub" },
+          { text: "解盘", link: "https://app.ziwei.pro/register?ref=TPgWxvwH" },
           {
             text: "讨论",
             link: "https://github.com/SylarLong/iztro/discussions",
@@ -123,6 +124,7 @@ export default defineConfig({
           { text: "開發", link: "/zh_TW/quick-start.md" },
           { text: "新手村", link: "/zh_TW/learn/basis.md" },
           { text: "排盤", link: "https://ziwei.pub" },
+          { text: "解盤", link: "https://app.ziwei.pro/register?ref=TPgWxvwH" },
           {
             text: "討論",
             link: "https://github.com/SylarLong/iztro/discussions",
@@ -208,6 +210,7 @@ export default defineConfig({
           { text: "Home", link: "/en_US/" },
           { text: "Docs", link: "/en_US/quick-start.md" },
           { text: "Astrolabe", link: "https://ziwei.pub" },
+          { text: "Decipher", link: "https://app.ziwei.pro/register?ref=TPgWxvwH" },
           {
             text: "Discussions",
             link: "https://github.com/SylarLong/iztro/discussions",
@@ -335,6 +338,6 @@ export default defineConfig({
     ],
   ],
   sitemap: {
-    hostname: "https://ziwei.pro",
+    hostname: "https://iztro.com",
   },
 });

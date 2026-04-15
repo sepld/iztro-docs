@@ -10,7 +10,7 @@ hero:
   tagline: 輕量級紫微鬥數排盤工具庫iztro的文檔以及紫微鬥數相關知識科普。
   image:
     src: /static/home_img.png
-    alt: ziwei.pro
+    alt: iztro.com
   actions:
     - theme: alt
       text: 紫微鬥數排盤
@@ -29,4 +29,6 @@ features:
     details: 除了開發文檔以外，還將提供紫微鬥數基礎知識的文檔，這將使你在集成代碼的時候如虎添翼。
   - title: 國際化支持
     details: 支持簡體中文、繁體中文、日文、韓文、英文、越南語等多國語言輸入輸出。
+  - title: <a href="https://app.ziwei.pro/register?ref=TPgWxvwH" style="text-decoration:underline">AI解盤</a>
+    details: 星問AI，專為紫微鬥數解盤而生。幫你走出迷茫和低谷，找到人生的答案。 <a href="https://app.ziwei.pro/register?ref=TPgWxvwH" style="text-decoration:underline">點擊開啟</a>
 ---

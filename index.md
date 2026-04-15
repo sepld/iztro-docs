@@ -10,7 +10,7 @@ hero:
   tagline: 轻量级紫微斗数排盘工具库iztro的文档以及紫微斗数相关知识科普。
   image:
     src: /static/home_img.png
-    alt: ziwei.pro
+    alt: iztro.com
   actions:
     - theme: alt
       text: 紫微斗数排盘
@@ -29,4 +29,6 @@ features:
     details: 除了开发文档以外，还将提供紫微斗数基础知识的文档，这将使你在集成代码的时候如虎添翼。
   - title: 国际化支持
     details: 支持简体中文、繁体中文、日文、韩文、英文、越南语等多国语言输入输出。
+  - title: <a href="https://app.ziwei.pro/register?ref=TPgWxvwH" style="text-decoration:underline">AI解盘</a>
+    details: 星问AI，专门为紫微斗数解盘而生。帮你走出迷茫和低谷，找到人生的答案。<a href="https://app.ziwei.pro/register?ref=TPgWxvwH" style="text-decoration:underline">点击开启</a>
 ---
