@@ -29,6 +29,6 @@ features:
     details: 除了開發文檔以外，還將提供紫微鬥數基礎知識的文檔，這將使你在集成代碼的時候如虎添翼。
   - title: 國際化支持
     details: 支持簡體中文、繁體中文、日文、韓文、英文、越南語等多國語言輸入輸出。
-  - title: <a href="https://app.ziwei.pro/register?ref=TPgWxvwH" style="text-decoration:underline">AI解盤</a>
+  - title: <a href="https://app.ziwei.pro/register?ref=TPgWxvwH" style="text-decoration:underline; display:flex;align-items:center; gap:5px;"><svg viewBox="0 0 100 100" style="position:relative;width:20px;height:20px;" fill="none"><path d="m 51.27,6 q 6.32,43.07 44.27,45.03 q -37.94,1.96 -44.27,45.03 q -6.32,-43.07 -44.27,-45.03 q 37.94,-1.96 44.27,-45.03 z" class="logo-main-star" stroke="currentColor" stroke-width="3" stroke-linejoin="round" fill="none"></path><circle cx="76.1" cy="23.5" r="4.2" class="logo-sparkle-1" fill="#C74B2A"></circle><path d="m 24.9,19.6 q 1.09,4.56 5.46,5.48 q -4.37,0.91 -5.46,5.48 q -1.09,-4.57 -5.46,-5.48 q 4.37,-0.91 5.46,-5.48 z" class="logo-sparkle-2" fill="#D4A04A"></path><path d="m 83.6,68.1 q 2,8 10,10 q -8,2 -10,10 q -2,-8 -8,-10 q 6,-2 8,-10 z" class="logo-medium-star" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round" fill="none"></path><circle cx="32.6" cy="85.1" r="2" class="logo-sparkle-3" fill="#E8633F"></circle><circle cx="16.8" cy="70.3" r="3" class="logo-sparkle-4" fill="#d5bab3"></circle></svg>AI解盤</a>
     details: 星問AI，專為紫微鬥數解盤而生。幫你走出迷茫和低谷，找到人生的答案。 <a href="https://app.ziwei.pro/register?ref=TPgWxvwH" style="text-decoration:underline">點擊開啟</a>
 ---
